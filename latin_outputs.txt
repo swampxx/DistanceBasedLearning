@@ -230,3 +230,133 @@ Test class: 26/26 completed. Time: 18.03374227600034 sec. Estimated remaining ti
  Class 24 : Top1 correct: 14.0/19, Top2 correct: 14.0/19, Top3 correct: 16.0/19
  Class 25 : Top1 correct: 2.0/19, Top2 correct: 3.0/19, Top3 correct: 3.0/19
 Total: Top1 -: 217.0/494 = 43.927125506072876, Top2 -: 280.0/494 = 56.68016194331984, Top3 -: 318.0/494 = 64.37246963562752
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+combined euclidean_modified and cosine with coefficients 1 and 1
+
+
+Test class: 1/26 completed. Time: 18.84640828099998 sec. Estimated remaining time: 471.1602070249995 sec
+Test class: 2/26 completed. Time: 18.13608016799992 sec. Estimated remaining time: 435.2659240319981 sec
+Test class: 3/26 completed. Time: 17.61358536599994 sec. Estimated remaining time: 405.1124634179986 sec
+Test class: 4/26 completed. Time: 17.636867501999973 sec. Estimated remaining time: 388.0110850439994 sec
+Test class: 5/26 completed. Time: 17.695225966999942 sec. Estimated remaining time: 371.5997453069988 sec
+Test class: 6/26 completed. Time: 18.340125216999922 sec. Estimated remaining time: 366.80250433999845 sec
+Test class: 7/26 completed. Time: 18.019529397000042 sec. Estimated remaining time: 342.3710585430008 sec
+Test class: 8/26 completed. Time: 24.764670358000103 sec. Estimated remaining time: 445.76406644400186 sec
+Test class: 9/26 completed. Time: 19.37151966700003 sec. Estimated remaining time: 329.3158343390005 sec
+Test class: 10/26 completed. Time: 17.791198599000154 sec. Estimated remaining time: 284.65917758400246 sec
+Test class: 11/26 completed. Time: 18.578834574999973 sec. Estimated remaining time: 278.6825186249996 sec
+Test class: 12/26 completed. Time: 17.848122430000103 sec. Estimated remaining time: 249.87371402000144 sec
+Test class: 13/26 completed. Time: 18.571107725000047 sec. Estimated remaining time: 241.4244004250006 sec
+Test class: 14/26 completed. Time: 18.032509678999986 sec. Estimated remaining time: 216.39011614799983 sec
+Test class: 15/26 completed. Time: 18.70399572799988 sec. Estimated remaining time: 205.7439530079987 sec
+Test class: 16/26 completed. Time: 17.881446330000017 sec. Estimated remaining time: 178.81446330000017 sec
+Test class: 17/26 completed. Time: 18.59575811799982 sec. Estimated remaining time: 167.3618230619984 sec
+Test class: 18/26 completed. Time: 18.61001351699997 sec. Estimated remaining time: 148.88010813599976 sec
+Test class: 19/26 completed. Time: 18.390143199999784 sec. Estimated remaining time: 128.7310023999985 sec
+Test class: 20/26 completed. Time: 18.555473205 sec. Estimated remaining time: 111.33283922999999 sec
+Test class: 21/26 completed. Time: 18.559145770999976 sec. Estimated remaining time: 92.79572885499988 sec
+Test class: 22/26 completed. Time: 18.707518190999963 sec. Estimated remaining time: 74.83007276399985 sec
+Test class: 23/26 completed. Time: 18.287645480000037 sec. Estimated remaining time: 54.86293644000011 sec
+Test class: 24/26 completed. Time: 18.67238896599997 sec. Estimated remaining time: 37.34477793199994 sec
+Test class: 25/26 completed. Time: 18.301519278000114 sec. Estimated remaining time: 18.301519278000114 sec
+Test class: 26/26 completed. Time: 18.547533703 sec. Estimated remaining time: 0.0 sec
+ Class 0 : Top1 correct: 3.0/19, Top2 correct: 7.0/19, Top3 correct: 7.0/19
+ Class 1 : Top1 correct: 4.0/19, Top2 correct: 7.0/19, Top3 correct: 12.0/19
+ Class 2 : Top1 correct: 15.0/19, Top2 correct: 19.0/19, Top3 correct: 19.0/19
+ Class 3 : Top1 correct: 15.0/19, Top2 correct: 17.0/19, Top3 correct: 17.0/19
+ Class 4 : Top1 correct: 14.0/19, Top2 correct: 16.0/19, Top3 correct: 17.0/19
+ Class 5 : Top1 correct: 2.0/19, Top2 correct: 3.0/19, Top3 correct: 3.0/19
+ Class 6 : Top1 correct: 8.0/19, Top2 correct: 10.0/19, Top3 correct: 14.0/19
+ Class 7 : Top1 correct: 10.0/19, Top2 correct: 15.0/19, Top3 correct: 16.0/19
+ Class 8 : Top1 correct: 9.0/19, Top2 correct: 12.0/19, Top3 correct: 12.0/19
+ Class 9 : Top1 correct: 15.0/19, Top2 correct: 19.0/19, Top3 correct: 19.0/19
+ Class 10 : Top1 correct: 6.0/19, Top2 correct: 9.0/19, Top3 correct: 10.0/19
+ Class 11 : Top1 correct: 16.0/19, Top2 correct: 18.0/19, Top3 correct: 18.0/19
+ Class 12 : Top1 correct: 6.0/19, Top2 correct: 13.0/19, Top3 correct: 14.0/19
+ Class 13 : Top1 correct: 12.0/19, Top2 correct: 16.0/19, Top3 correct: 17.0/19
+ Class 14 : Top1 correct: 10.0/19, Top2 correct: 13.0/19, Top3 correct: 16.0/19
+ Class 15 : Top1 correct: 14.0/19, Top2 correct: 19.0/19, Top3 correct: 19.0/19
+ Class 16 : Top1 correct: 18.0/19, Top2 correct: 18.0/19, Top3 correct: 18.0/19
+ Class 17 : Top1 correct: 4.0/19, Top2 correct: 7.0/19, Top3 correct: 8.0/19
+ Class 18 : Top1 correct: 10.0/19, Top2 correct: 11.0/19, Top3 correct: 11.0/19
+ Class 19 : Top1 correct: 1.0/19, Top2 correct: 3.0/19, Top3 correct: 3.0/19
+ Class 20 : Top1 correct: 13.0/19, Top2 correct: 18.0/19, Top3 correct: 18.0/19
+ Class 21 : Top1 correct: 2.0/19, Top2 correct: 3.0/19, Top3 correct: 5.0/19
+ Class 22 : Top1 correct: 8.0/19, Top2 correct: 10.0/19, Top3 correct: 12.0/19
+ Class 23 : Top1 correct: 13.0/19, Top2 correct: 19.0/19, Top3 correct: 19.0/19
+ Class 24 : Top1 correct: 10.0/19, Top2 correct: 18.0/19, Top3 correct: 19.0/19
+ Class 25 : Top1 correct: 2.0/19, Top2 correct: 4.0/19, Top3 correct: 6.0/19
+Total: Top1 -: 240.0/494 = 48.582995951417004, Top2 -: 324.0/494 = 65.58704453441295, Top3 -: 349.0/494 = 70.64777327935222
+
+-------------------------------------------------------------------------------------------------------------------------
+
+combined euclidean_distance_modified and cosine_distance_std    with coefficients 1 and 0.6
+
+Test class: 1/26 completed. Time: 18.808196125999984 sec. Estimated remaining time: 470.2049031499996 sec
+Test class: 2/26 completed. Time: 18.080535560000044 sec. Estimated remaining time: 433.93285344000105 sec
+Test class: 3/26 completed. Time: 17.58583762299986 sec. Estimated remaining time: 404.4742653289968 sec
+Test class: 4/26 completed. Time: 17.894926163000036 sec. Estimated remaining time: 393.6883755860008 sec
+Test class: 5/26 completed. Time: 17.63227405800012 sec. Estimated remaining time: 370.27775521800254 sec
+Test class: 6/26 completed. Time: 18.88817928000003 sec. Estimated remaining time: 377.7635856000006 sec
+Test class: 7/26 completed. Time: 18.94422756100016 sec. Estimated remaining time: 359.94032365900307 sec
+Test class: 8/26 completed. Time: 18.80104801199991 sec. Estimated remaining time: 338.4188642159984 sec
+Test class: 9/26 completed. Time: 18.39857193900002 sec. Estimated remaining time: 312.77572296300036 sec
+Test class: 10/26 completed. Time: 18.160221171999865 sec. Estimated remaining time: 290.56353875199784 sec
+Test class: 11/26 completed. Time: 18.18884372599996 sec. Estimated remaining time: 272.8326558899994 sec
+Test class: 12/26 completed. Time: 17.795710426999904 sec. Estimated remaining time: 249.13994597799865 sec
+Test class: 13/26 completed. Time: 18.152461924999898 sec. Estimated remaining time: 235.98200502499867 sec
+Test class: 14/26 completed. Time: 17.776080785999966 sec. Estimated remaining time: 213.3129694319996 sec
+Test class: 15/26 completed. Time: 18.197093600000017 sec. Estimated remaining time: 200.16802960000018 sec
+Test class: 16/26 completed. Time: 17.882277021999926 sec. Estimated remaining time: 178.82277021999926 sec
+Test class: 17/26 completed. Time: 18.19783514400001 sec. Estimated remaining time: 163.7805162960001 sec
+Test class: 18/26 completed. Time: 20.36189361400011 sec. Estimated remaining time: 162.89514891200088 sec
+Test class: 19/26 completed. Time: 19.882065756999964 sec. Estimated remaining time: 139.17446029899975 sec
+Test class: 20/26 completed. Time: 22.205697856000143 sec. Estimated remaining time: 133.23418713600086 sec
+Test class: 21/26 completed. Time: 23.431868531999953 sec. Estimated remaining time: 117.15934265999977 sec
+Test class: 22/26 completed. Time: 21.014596038000036 sec. Estimated remaining time: 84.05838415200014 sec
+Test class: 23/26 completed. Time: 22.712713312000005 sec. Estimated remaining time: 68.13813993600002 sec
+Test class: 24/26 completed. Time: 20.85148588600032 sec. Estimated remaining time: 41.70297177200064 sec
+Test class: 25/26 completed. Time: 22.476778466999804 sec. Estimated remaining time: 22.476778466999804 sec
+Test class: 26/26 completed. Time: 20.057926584000143 sec. Estimated remaining time: 0.0 sec
+ Class 0 : Top1 correct: 3.0/19, Top2 correct: 7.0/19, Top3 correct: 7.0/19
+ Class 1 : Top1 correct: 4.0/19, Top2 correct: 7.0/19, Top3 correct: 12.0/19
+ Class 2 : Top1 correct: 15.0/19, Top2 correct: 19.0/19, Top3 correct: 19.0/19
+ Class 3 : Top1 correct: 15.0/19, Top2 correct: 17.0/19, Top3 correct: 17.0/19
+ Class 4 : Top1 correct: 15.0/19, Top2 correct: 16.0/19, Top3 correct: 17.0/19
+ Class 5 : Top1 correct: 2.0/19, Top2 correct: 3.0/19, Top3 correct: 3.0/19
+ Class 6 : Top1 correct: 8.0/19, Top2 correct: 10.0/19, Top3 correct: 14.0/19
+ Class 7 : Top1 correct: 10.0/19, Top2 correct: 15.0/19, Top3 correct: 16.0/19
+ Class 8 : Top1 correct: 9.0/19, Top2 correct: 12.0/19, Top3 correct: 12.0/19
+ Class 9 : Top1 correct: 14.0/19, Top2 correct: 19.0/19, Top3 correct: 19.0/19
+ Class 10 : Top1 correct: 6.0/19, Top2 correct: 9.0/19, Top3 correct: 10.0/19
+ Class 11 : Top1 correct: 16.0/19, Top2 correct: 18.0/19, Top3 correct: 18.0/19
+ Class 12 : Top1 correct: 5.0/19, Top2 correct: 11.0/19, Top3 correct: 14.0/19
+ Class 13 : Top1 correct: 12.0/19, Top2 correct: 16.0/19, Top3 correct: 17.0/19
+ Class 14 : Top1 correct: 10.0/19, Top2 correct: 13.0/19, Top3 correct: 16.0/19
+ Class 15 : Top1 correct: 13.0/19, Top2 correct: 19.0/19, Top3 correct: 19.0/19
+ Class 16 : Top1 correct: 18.0/19, Top2 correct: 18.0/19, Top3 correct: 18.0/19
+ Class 17 : Top1 correct: 4.0/19, Top2 correct: 7.0/19, Top3 correct: 8.0/19
+ Class 18 : Top1 correct: 10.0/19, Top2 correct: 11.0/19, Top3 correct: 11.0/19
+ Class 19 : Top1 correct: 1.0/19, Top2 correct: 3.0/19, Top3 correct: 3.0/19
+ Class 20 : Top1 correct: 14.0/19, Top2 correct: 18.0/19, Top3 correct: 18.0/19
+ Class 21 : Top1 correct: 2.0/19, Top2 correct: 3.0/19, Top3 correct: 5.0/19
+ Class 22 : Top1 correct: 8.0/19, Top2 correct: 11.0/19, Top3 correct: 13.0/19
+ Class 23 : Top1 correct: 13.0/19, Top2 correct: 19.0/19, Top3 correct: 19.0/19
+ Class 24 : Top1 correct: 9.0/19, Top2 correct: 18.0/19, Top3 correct: 19.0/19
+ Class 25 : Top1 correct: 2.0/19, Top2 correct: 4.0/19, Top3 correct: 6.0/19
+Total: Top1 -: 238.0/494 = 48.178137651821864, Top2 -: 323.0/494 = 65.38461538461539, Top3 -: 350.0/494 = 70.8502024291498
+
+
+
+
+
+
+
+
+
+
+
